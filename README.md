@@ -1,9 +1,9 @@
 
 <h1 align = "center"> Hola 👋, soy Santino </h1>
-<h3 align = "center"> Un apasionado desarrollador de backend de Argentina </h3>
+<h3 align = "center"> Un apasionado desarrollador Argentino </h3>
 
 ```js
-const me = {
+const Me = {
   pronouns: 'he' || 'him',
   code: [HTML, CSS, Javascript],
   tools: [React, Node, MongoDB, MySQL],
