@@ -4,10 +4,9 @@
 
 ```js
 const Me = {
-  pronouns: 'he' || 'him',
-  code: [HTML, CSS, Javascript],
+  code: [HTML, CSS, Javascript, C#],
   tools: [React, Node, MongoDB, MySQL],
-  email: 'santi.barto@yahoo.com.ar',
+  email: 'santi.barto12@gmail.com',
   portfolio: 'link Portfolio'
 }
 ```
