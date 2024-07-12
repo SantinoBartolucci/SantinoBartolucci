@@ -5,7 +5,8 @@
 ```js
 const Me = {
   code: ['HTML', 'CSS', 'Javascript', 'C#'],
-  tools: ['React', 'Node', 'MongoDB', 'MySQL'],
+  tools: ['Node', '.Net', 'Git'],
+  databases: ['MongoDB', 'MySQL'],
   email: 'santi.barto12@gmail.com',
   portfolio: 'link Portfolio'
 }
