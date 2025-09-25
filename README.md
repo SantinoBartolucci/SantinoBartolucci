@@ -9,6 +9,6 @@ public class Me()
     public List<string> Tools = new List<string>() { "ASP.NET", "Git", "NodeJs" };
     public List<string> Databases = new List<string>() { "MongoDB", "MySQL", "SQLServer" };
     public string Email = "santi.barto12@gmail.com";
-    //public string Portfolio = "https://tulink";
+    //public string Portfolio = "https://link";
 }
 ```
